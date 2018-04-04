@@ -1,0 +1,7 @@
+{
+  "name": "Triangle Tracker",
+  "description": "Justin Morgan Triangle Tracker",
+  "repository": "https://github.com/justinsmorganHHC/TriangleTracker",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["php", "express", "static"]
+}
