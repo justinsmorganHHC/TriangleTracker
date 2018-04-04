@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f10a57612eaa19ab674ef9e094ac7357",
+    "packages": [
+        {
+            "name": "components/jquery-migrate",
+            "version": "3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/components/jquery-migrate.git",
+                "reference": "349e64504a30bf9969c7723711bb5bb707adf450"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/components/jquery-migrate/zipball/349e64504a30bf9969c7723711bb5bb707adf450",
+                "reference": "349e64504a30bf9969c7723711bb5bb707adf450",
+                "shasum": ""
+            },
+            "type": "component",
+            "extra": {
+                "component": {
+                    "scripts": [
+                        "jquery-migrate.js"
+                    ],
+                    "files": [
+                        "jquery-migrate.min.js"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "jQuery Foundation and other contributors",
+                    "homepage": "https://github.com/jquery/jquery-migrate/blob/master/AUTHORS.txt"
+                }
+            ],
+            "description": "APIs and features removed from jQuery core",
+            "homepage": "https://github.com/jquery/jquery-migrate",
+            "time": "2016-06-14T06:48:05+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

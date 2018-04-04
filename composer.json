@@ -1,0 +1,15 @@
+{
+  "name": "justin_morgan/triangle_tracker",
+  "description": "triangle_tracker",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Justin Morgan",
+      "email": "justin@justinsmorgan.com"
+    }
+  ],
+  "require": {
+    "components/jquery-migrate": "3.0.0"
+  }
+}
