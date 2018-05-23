@@ -11,7 +11,7 @@ This is a demonstration program written in PHP and Javascript that will auto-dep
 
 You can watch the video, 
 
-[![Triangle Tracker Auto Deploy Video](https://www.dropbox.com/s/xtm9ckipof8h3ve/heroku_video.jpg?dl=0)](https://www.dropbox.com/s/r9hht5o5g4r11aa/herokudemo.mp4?dl=0 "Everything Is AWESOME")
+[![Triangle Tracker Auto Deploy Video](https://www.dropbox.com/s/xtm9ckipof8h3ve/heroku_video.jpg?dl=0)](http://www.0-0x.com/wp-content/uploads/2018/05/heroku_video.jpg "Everything Is AWESOME")
 
 
 
